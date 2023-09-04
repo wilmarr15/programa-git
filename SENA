@@ -1,0 +1,3 @@
+https://github.com/wilmarr15/programa-git.git
+> git remote add github url
+> git remote -v
